@@ -1,0 +1,15 @@
+.custom-input{
+    width: 500px;
+    padding: 4px 10px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid rgb(206, 205, 205);
+    font-size: 14px;
+    margin: 7px 5px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(35, 34, 34);
+}
+.custom-input ::placeholder{
+    color: rgb(65, 64, 64);
+}

@@ -1,0 +1,51 @@
+.orderpage{
+    width: 100%;
+    position: relative;
+}
+.orderlist_heading h1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: rgb(246, 40, 40);
+}
+.order_body{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+   
+   padding: 20px;
+    gap: 20px;
+}
+.orderlist_model{
+    padding: 20px;
+    
+}
+.order_body img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.orderlist_productname{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+
+}
+.orderlist_productname p{
+    font-size: 25px;
+}
+.order_contact{
+    
+    position: relative;
+    padding: 10px;
+    width: 300px;
+    
+}
+.orderbody{
+    position: relative;
+    display: flex;
+}

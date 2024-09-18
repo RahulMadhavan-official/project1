@@ -1,0 +1,16 @@
+.btn{
+    color: white;
+    font-size: 500;
+    background-color: #f46e6c;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 3px;
+    cursor: pointer;
+    font: 20px;
+}
+
+button:active{
+    color: #f46e6c;
+    background-color:white ;
+    transform: translateY(2px);
+}

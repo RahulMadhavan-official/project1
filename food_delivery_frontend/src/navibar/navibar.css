@@ -1,0 +1,21 @@
+.navi{
+    width: 100%;
+   padding: 20px;
+   color: rgb(246, 40, 40);
+   position: relative;
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+   flex-wrap: wrap;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 100px;
+}
+.click{
+    cursor: pointer;
+}

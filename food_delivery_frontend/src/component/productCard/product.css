@@ -1,0 +1,26 @@
+.product-card{
+    width: 300px;
+    height: 350px;
+    
+    border-radius: 20px;
+    color: rgb(8, 7, 7);
+}
+.product-card img{
+    width:300px;
+    height: 200px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.product-card h1{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+.product-card h2{
+    font-size: 30px;
+    
+}

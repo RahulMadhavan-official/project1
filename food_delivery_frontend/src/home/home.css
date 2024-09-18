@@ -1,0 +1,16 @@
+.home-body{
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:50px;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    color: rgb(246, 40, 40);
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
